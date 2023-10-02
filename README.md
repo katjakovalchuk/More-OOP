@@ -32,4 +32,8 @@ Implement the heroes game in text mode
 - class CharacterFactory 
    - methods: Character createCharacter() { returns random instance of any existing character } 
 - class GameManager
-   - methods: void fight(Character c1, Character c2) { to provide fight between to characters and explain via command line what happens during fight, till both of the characters are alive } 
+   - methods: void fight(Character c1, Character c2) { to provide fight between to characters and explain via command line what happens during fight, till both of the characters are alive }
+ 
+## Solution
+- all classes implemented in different programs
+- GameManager runs automaticaly
